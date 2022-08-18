@@ -1,2 +1,1 @@
-# KRIOVA-ASSESSMENT--FULLSTACK
-Kriova Assessment
+job portal
